@@ -1,6 +1,5 @@
 
-# hi, my name is Timur!
-# I am Frontend Developer
+# hi, my name is Timur! I am Frontend Developer
 
 ---
 
