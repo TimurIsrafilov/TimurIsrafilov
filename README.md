@@ -38,7 +38,7 @@ I have about 3 years of experience in developing of websites. I enjoy web develo
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb-compass" alt="mongodb-compass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
