@@ -7,6 +7,16 @@
 
 I have about 3 years of experience in developing of websites. I enjoy web development, participating in hackathons and team projects. Currently looking for job in any format for the position of front-end developer in company where my skills could be applied!
 
+## Completed Tasks:
+
+[vue-flow-tg](https://github.com/TimurIsrafilov/vue-flow-tg) - flow chart on Vue, try on [Telegram](https://t.me/vueflowbot/VueChart/) [deploy](https://timurisrafilov.github.io/vue-flow-tg/)
+[react-flow-tg](https://github.com/TimurIsrafilov/react-flow-tg) - flow chart on React, try on [Telegram](https://t.me/reactflowtestingbot/flowchart/) [deploy](https://timurisrafilov.github.io/react-flow-tg/)
+[next-todo](https://github.com/TimurIsrafilov/next-todo) - todo app on Next.js, [deploy](https://next-todo-coral.vercel.app/)
+[nuxt-todo](https://github.com/TimurIsrafilov/nuxt-std) - todo app on Nuxt.js, [deploy](https://nuxt-std.vercel.app/tasks)
+[sales-app](https://github.com/TimurIsrafilov/sales) - sales app on Next.js, [deploy](https://sales-kzhm.vercel.app/)
+[staff-chart](https://github.com/TimurIsrafilov/gaz-hack-front) - company staff chart on React, [deploy](https://timurisrafilov.github.io/gaz-hack-front/)
+[staff-chart](https://github.com/TimurIsrafilov/rosb-hack-front) - company staff chart on React, [deploy](https://timurisrafilov.github.io/rosb-hack-front/)
+
 ---
 
 ### Contact me:
