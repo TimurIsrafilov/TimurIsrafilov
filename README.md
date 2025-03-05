@@ -7,7 +7,7 @@
 
 I have about 3 years of experience in developing of websites. I enjoy web development, participating in hackathons and team projects. Currently looking for job in any format for the position of front-end developer in company where my skills could be applied!
 
-## Completed Tasks:
+#### Completed Tasks:
 
 - [vue-flow-tg](https://github.com/TimurIsrafilov/vue-flow-tg) - flow chart on Vue, try on [telegram bot](https://t.me/vueflowbot/VueChart/), observe [deploy](https://timurisrafilov.github.io/vue-flow-tg/)
 - [react-flow-tg](https://github.com/TimurIsrafilov/react-flow-tg) - flow chart on React, try on [telegram bot](https://t.me/reactflowtestingbot/flowchart/), observe [deploy](https://timurisrafilov.github.io/react-flow-tg/)
